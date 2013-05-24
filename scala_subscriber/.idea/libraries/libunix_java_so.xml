@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libunix-java.so">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/libunix-java.so" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
